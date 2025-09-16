@@ -14,9 +14,14 @@ app.use(express.json());
 
 // Enable CORS for React frontend
 app.use(cors({
-  origin: 'http://localhost:3000', // ✅ React app URL
-  methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'],
+  origin: '*',
 }));
+// app.use(cors({
+//   origin: 'http://localhost:3000', // ✅ React app URL
+//   methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'],
+// }));
+
+
 
 // --- MongoDB Connection ---
 const MONGODB_URI = process.env.MONGO_URI;
