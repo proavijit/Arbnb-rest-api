@@ -1,0 +1,1037 @@
+[
+  {
+    "name": "Luxury Apartment in Banani",
+    "description": "A spacious and modern apartment in the heart of Banani, perfect for families or business travelers.",
+    "location": {
+      "name": "Dhaka",
+      "coordinates": [90.4079, 23.7916]
+    },
+    "pricePerNight": 8500,
+    "images": [
+      "https://example.com/images/banani-1.jpg",
+      "https://example.com/images/banani-2.jpg"
+    ],
+    "amenities": ["Wi-Fi", "AC", "Kitchen", "Free Parking"],
+    "guestCapacity": 5
+  },
+  {
+    "name": "Cozy Studio Flat in Dhanmondi",
+    "description": "A quiet and comfortable studio flat with all essential amenities, ideal for solo travelers.",
+    "location": {
+      "name": "Dhaka",
+      "coordinates": [90.3879, 23.7518]
+    },
+    "pricePerNight": 3200,
+    "images": [
+      "https://example.com/images/dhanmondi-1.jpg",
+      "https://example.com/images/dhanmondi-2.jpg"
+    ],
+    "amenities": ["Wi-Fi", "AC", "Balcony"],
+    "guestCapacity": 2
+  },
+  {
+    "name": "Family House in Gulshan 2",
+    "description": "A large house with a beautiful garden, located in a safe and posh area of Gulshan.",
+    "location": {
+      "name": "Dhaka",
+      "coordinates": [90.4137, 23.7949]
+    },
+    "pricePerNight": 12000,
+    "images": [
+      "https://example.com/images/gulshan-1.jpg",
+      "https://example.com/images/gulshan-2.jpg"
+    ],
+    "amenities": ["Wi-Fi", "AC", "Garden", "Parking"],
+    "guestCapacity": 8
+  },
+  {
+    "name": "Rooftop Studio near Bashundhara R/A",
+    "description": "Modern studio with a private rooftop view, perfect for a short getaway.",
+    "location": {
+      "name": "Dhaka",
+      "coordinates": [90.4215, 23.8152]
+    },
+    "pricePerNight": 4500,
+    "images": [
+      "https://example.com/images/bashundhara-1.jpg",
+      "https://example.com/images/bashundhara-2.jpg"
+    ],
+    "amenities": ["Wi-Fi", "AC", "Terrace"],
+    "guestCapacity": 2
+  },
+  {
+    "name": "Scenic Villa in Cox's Bazar",
+    "description": "Enjoy the beach view from this stunning villa, only a few steps away from the sea.",
+    "location": {
+      "name": "Cox's Bazar",
+      "coordinates": [91.9868, 21.4272]
+    },
+    "pricePerNight": 15000,
+    "images": [
+      "https://example.com/images/coxsbazar-villa-1.jpg",
+      "https://example.com/images/coxsbazar-villa-2.jpg"
+    ],
+    "amenities": ["Beach Access", "Swimming Pool", "Wi-Fi", "AC"],
+    "guestCapacity": 6
+  },
+  {
+    "name": "Beachfront Cottage near Laboni Point",
+    "description": "A traditional cottage right on the beach, offering a unique experience.",
+    "location": {
+      "name": "Cox's Bazar",
+      "coordinates": [91.9796, 21.4239]
+    },
+    "pricePerNight": 7500,
+    "images": [
+      "https://example.com/images/laboni-cottage-1.jpg",
+      "https://example.com/images/laboni-cottage-2.jpg"
+    ],
+    "amenities": ["Beach Access", "Wi-Fi", "Garden"],
+    "guestCapacity": 4
+  },
+  {
+    "name": "Hillside Retreat in Sylhet",
+    "description": "A serene retreat nestled in the hills of Sylhet, perfect for a peaceful vacation.",
+    "location": {
+      "name": "Sylhet",
+      "coordinates": [91.8722, 24.8949]
+    },
+    "pricePerNight": 9500,
+    "images": [
+      "https://example.com/images/sylhet-hill-1.jpg",
+      "https://example.com/images/sylhet-hill-2.jpg"
+    ],
+    "amenities": ["Mountain View", "Wi-Fi", "Kitchen"],
+    "guestCapacity": 4
+  },
+  {
+    "name": "Tea Garden Bungalow in Sreemangal",
+    "description": "Live like a local in this charming bungalow surrounded by tea plantations.",
+    "location": {
+      "name": "Sylhet",
+      "coordinates": [91.7243, 24.3168]
+    },
+    "pricePerNight": 6000,
+    "images": [
+      "https://example.com/images/sreemangal-1.jpg",
+      "https://example.com/images/sreemangal-2.jpg"
+    ],
+    "amenities": ["Garden", "Wi-Fi", "Breakfast"],
+    "guestCapacity": 3
+  },
+  {
+    "name": "Riverside Homestay in Rangamati",
+    "description": "A rustic homestay offering stunning views of the Kaptai Lake.",
+    "location": {
+      "name": "Chittagong",
+      "coordinates": [92.1931, 22.6588]
+    },
+    "pricePerNight": 5000,
+    "images": [
+      "https://example.com/images/rangamati-1.jpg",
+      "https://example.com/images/rangamati-2.jpg"
+    ],
+    "amenities": ["Lake View", "Free Parking", "Wi-Fi"],
+    "guestCapacity": 4
+  },
+  {
+    "name": "Modern Flat near Chittagong University",
+    "description": "A comfortable flat with modern facilities, close to the university campus.",
+    "location": {
+      "name": "Chittagong",
+      "coordinates": [91.8021, 22.3569]
+    },
+    "pricePerNight": 4000,
+    "images": [
+      "https://example.com/images/ctg-uni-1.jpg",
+      "https://example.com/images/ctg-uni-2.jpg"
+    ],
+    "amenities": ["AC", "Wi-Fi", "Kitchen"],
+    "guestCapacity": 3
+  },
+  {
+    "name": "Beachside Villa in Patenga",
+    "description": "A spacious villa with private beach access, perfect for a relaxing holiday.",
+    "location": {
+      "name": "Chittagong",
+      "coordinates": [91.8021, 22.2599]
+    },
+    "pricePerNight": 11000,
+    "images": [
+      "https://example.com/images/patenga-1.jpg",
+      "https://example.com/images/patenga-2.jpg"
+    ],
+    "amenities": ["Beach Access", "Swimming Pool", "AC"],
+    "guestCapacity": 6
+  },
+  {
+    "name": "Hill View Resort in Bandarban",
+    "description": "A beautiful resort with panoramic views of the hills and forests.",
+    "location": {
+      "name": "Chittagong",
+      "coordinates": [92.2155, 22.2037]
+    },
+    "pricePerNight": 9500,
+    "images": [
+      "https://example.com/images/bandarban-1.jpg",
+      "https://example.com/images/bandarban-2.jpg"
+    ],
+    "amenities": ["Mountain View", "Restaurant", "Wi-Fi"],
+    "guestCapacity": 5
+  },
+  {
+    "name": "Spacious Flat in Mirpur",
+    "description": "A comfortable apartment with easy access to public transport and shopping centers.",
+    "location": {
+      "name": "Dhaka",
+      "coordinates": [90.3598, 23.8103]
+    },
+    "pricePerNight": 5000,
+    "images": [
+      "https://example.com/images/mirpur-1.jpg",
+      "https://example.com/images/mirpur-2.jpg"
+    ],
+    "amenities": ["Wi-Fi", "Balcony", "Parking"],
+    "guestCapacity": 4
+  },
+  {
+    "name": "Old Dhaka Charmer",
+    "description": "Experience the historic side of Dhaka in this traditional, yet modern, building.",
+    "location": {
+      "name": "Dhaka",
+      "coordinates": [90.4079, 23.7099]
+    },
+    "pricePerNight": 4000,
+    "images": [
+      "https://example.com/images/olddhaka-1.jpg",
+      "https://example.com/images/olddhaka-2.jpg"
+    ],
+    "amenities": ["Wi-Fi", "Historical Area"],
+    "guestCapacity": 3
+  },
+  {
+    "name": "Lake View Retreat in Gulshan",
+    "description": "Wake up to a serene lake view in this cozy and well-decorated flat.",
+    "location": {
+      "name": "Dhaka",
+      "coordinates": [90.4137, 23.7949]
+    },
+    "pricePerNight": 9000,
+    "images": [
+      "https://example.com/images/gulshan-lake-1.jpg",
+      "https://example.com/images/gulshan-lake-2.jpg"
+    ],
+    "amenities": ["Lake View", "AC", "Gym"],
+    "guestCapacity": 2
+  },
+  {
+    "name": "Hillside Cottage in Sylhet",
+    "description": "A charming cottage offering peace and tranquility in the tea gardens of Sylhet.",
+    "location": {
+      "name": "Sylhet",
+      "coordinates": [91.8722, 24.8949]
+    },
+    "pricePerNight": 7000,
+    "images": [
+      "https://example.com/images/sylhet-cottage-1.jpg",
+      "https://example.com/images/sylhet-cottage-2.jpg"
+    ],
+    "amenities": ["Garden", "Wi-Fi"],
+    "guestCapacity": 4
+  },
+  {
+    "name": "Luxurious Hotel in Kolatoli",
+    "description": "A luxurious hotel with all modern amenities, close to the main beach.",
+    "location": {
+      "name": "Cox's Bazar",
+      "coordinates": [91.9796, 21.4239]
+    },
+    "pricePerNight": 18000,
+    "images": [
+      "https://example.com/images/kolatoli-hotel-1.jpg",
+      "https://example.com/images/kolatoli-hotel-2.jpg"
+    ],
+    "amenities": ["Swimming Pool", "Restaurant", "Spa", "Wi-Fi"],
+    "guestCapacity": 4
+  },
+  {
+    "name": "Budget-Friendly Guesthouse in Cox's Bazar",
+    "description": "A clean and affordable guesthouse for travelers on a budget.",
+    "location": {
+      "name": "Cox's Bazar",
+      "coordinates": [91.9868, 21.4272]
+    },
+    "pricePerNight": 2500,
+    "images": [
+      "https://example.com/images/guesthouse-1.jpg",
+      "https://example.com/images/guesthouse-2.jpg"
+    ],
+    "amenities": ["Wi-Fi", "Basic Facilities"],
+    "guestCapacity": 2
+  },
+  {
+    "name": "Family Stay in Sreemangal",
+    "description": "A cozy home with a friendly host, perfect for a family trip.",
+    "location": {
+      "name": "Sylhet",
+      "coordinates": [91.7243, 24.3168]
+    },
+    "pricePerNight": 5000,
+    "images": [
+      "https://example.com/images/sreemangal-family-1.jpg",
+      "https://example.com/images/sreemangal-family-2.jpg"
+    ],
+    "amenities": ["Breakfast", "Garden", "Wi-Fi"],
+    "guestCapacity": 4
+  },
+  {
+    "name": "City Centre Flat in Chittagong",
+    "description": "A centrally located apartment with easy access to all major attractions.",
+    "location": {
+      "name": "Chittagong",
+      "coordinates": [91.8166, 22.3569]
+    },
+    "pricePerNight": 6500,
+    "images": [
+      "https://example.com/images/chittagong-city-1.jpg",
+      "https://example.com/images/chittagong-city-2.jpg"
+    ],
+    "amenities": ["AC", "Wi-Fi", "Kitchen"],
+    "guestCapacity": 5
+  },
+  {
+    "name": "Peaceful Getaway in Uttara",
+    "description": "A serene flat located in the residential area of Uttara, Dhaka.",
+    "location": {
+      "name": "Dhaka",
+      "coordinates": [90.3955, 23.8697]
+    },
+    "pricePerNight": 6000,
+    "images": [
+      "https://example.com/images/uttara-1.jpg",
+      "https://example.com/images/uttara-2.jpg"
+    ],
+    "amenities": ["AC", "Balcony", "Free Parking"],
+    "guestCapacity": 3
+  },
+  {
+    "name": "Modern Hotel in Banani",
+    "description": "A business-friendly hotel with conference rooms and a restaurant.",
+    "location": {
+      "name": "Dhaka",
+      "coordinates": [90.4079, 23.7916]
+    },
+    "pricePerNight": 10000,
+    "images": [
+      "https://example.com/images/banani-hotel-1.jpg",
+      "https://example.com/images/banani-hotel-2.jpg"
+    ],
+    "amenities": ["AC", "Restaurant", "Wi-Fi", "Conference Room"],
+    "guestCapacity": 2
+  },
+  {
+    "name": "Guest House near Chittagong Airport",
+    "description": "A convenient guesthouse for travelers, close to the airport and beach.",
+    "location": {
+      "name": "Chittagong",
+      "coordinates": [91.8176, 22.2599]
+    },
+    "pricePerNight": 3000,
+    "images": [
+      "https://example.com/images/airport-guesthouse-1.jpg",
+      "https://example.com/images/airport-guesthouse-2.jpg"
+    ],
+    "amenities": ["Airport Shuttle", "Wi-Fi", "Kitchen"],
+    "guestCapacity": 2
+  },
+  {
+    "name": "Urban Flat near Motijheel",
+    "description": "A simple flat located in the heart of Dhaka's financial district.",
+    "location": {
+      "name": "Dhaka",
+      "coordinates": [90.4137, 23.7299]
+    },
+    "pricePerNight": 4500,
+    "images": [
+      "https://example.com/images/motijheel-1.jpg",
+      "https://example.com/images/motijheel-2.jpg"
+    ],
+    "amenities": ["AC", "Wi-Fi"],
+    "guestCapacity": 3
+  },
+  {
+    "name": "Luxurious Villa in Banani",
+    "description": "A spacious and modern apartment in the heart of Banani, perfect for families or business travelers.",
+    "location": {
+      "name": "Dhaka",
+      "coordinates": [90.4079, 23.7916]
+    },
+    "pricePerNight": 8500,
+    "images": [
+      "https://example.com/images/banani-1.jpg",
+      "https://example.com/images/banani-2.jpg"
+    ],
+    "amenities": ["Wi-Fi", "AC", "Kitchen", "Free Parking"],
+    "guestCapacity": 5
+  },
+  {
+    "name": "Traditional House in Dhanmondi",
+    "description": "A traditional and comfortable house with all essential amenities, ideal for solo travelers.",
+    "location": {
+      "name": "Dhaka",
+      "coordinates": [90.3879, 23.7518]
+    },
+    "pricePerNight": 3200,
+    "images": [
+      "https://example.com/images/dhanmondi-1.jpg",
+      "https://example.com/images/dhanmondi-2.jpg"
+    ],
+    "amenities": ["Wi-Fi", "AC", "Balcony"],
+    "guestCapacity": 2
+  },
+  {
+    "name": "Modern Villa in Gulshan 2",
+    "description": "A large villa with a beautiful garden, located in a safe and posh area of Gulshan.",
+    "location": {
+      "name": "Dhaka",
+      "coordinates": [90.4137, 23.7949]
+    },
+    "pricePerNight": 12000,
+    "images": [
+      "https://example.com/images/gulshan-1.jpg",
+      "https://example.com/images/gulshan-2.jpg"
+    ],
+    "amenities": ["Wi-Fi", "AC", "Garden", "Parking"],
+    "guestCapacity": 8
+  },
+  {
+    "name": "Rooftop Apartment near Bashundhara R/A",
+    "description": "Modern apartment with a private rooftop view, perfect for a short getaway.",
+    "location": {
+      "name": "Dhaka",
+      "coordinates": [90.4215, 23.8152]
+    },
+    "pricePerNight": 4500,
+    "images": [
+      "https://example.com/images/bashundhara-1.jpg",
+      "https://example.com/images/bashundhara-2.jpg"
+    ],
+    "amenities": ["Wi-Fi", "AC", "Terrace"],
+    "guestCapacity": 2
+  },
+  {
+    "name": "Hill View House in Cox's Bazar",
+    "description": "Enjoy the hill view from this stunning villa, only a few steps away from the sea.",
+    "location": {
+      "name": "Cox's Bazar",
+      "coordinates": [91.9868, 21.4272]
+    },
+    "pricePerNight": 15000,
+    "images": [
+      "https://example.com/images/coxsbazar-villa-1.jpg",
+      "https://example.com/images/coxsbazar-villa-2.jpg"
+    ],
+    "amenities": ["Beach Access", "Swimming Pool", "Wi-Fi", "AC"],
+    "guestCapacity": 6
+  },
+  {
+    "name": "Beachside Homestay near Laboni Point",
+    "description": "A traditional homestay right on the beach, offering a unique experience.",
+    "location": {
+      "name": "Cox's Bazar",
+      "coordinates": [91.9796, 21.4239]
+    },
+    "pricePerNight": 7500,
+    "images": [
+      "https://example.com/images/laboni-cottage-1.jpg",
+      "https://example.com/images/laboni-cottage-2.jpg"
+    ],
+    "amenities": ["Beach Access", "Wi-Fi", "Garden"],
+    "guestCapacity": 4
+  },
+  {
+    "name": "Forest Retreat in Sylhet",
+    "description": "A serene retreat nestled in the hills of Sylhet, perfect for a peaceful vacation.",
+    "location": {
+      "name": "Sylhet",
+      "coordinates": [91.8722, 24.8949]
+    },
+    "pricePerNight": 9500,
+    "images": [
+      "https://example.com/images/sylhet-hill-1.jpg",
+      "https://example.com/images/sylhet-hill-2.jpg"
+    ],
+    "amenities": ["Mountain View", "Wi-Fi", "Kitchen"],
+    "guestCapacity": 4
+  },
+  {
+    "name": "Eco-Friendly Bungalow in Sreemangal",
+    "description": "Live like a local in this charming bungalow surrounded by tea plantations.",
+    "location": {
+      "name": "Sylhet",
+      "coordinates": [91.7243, 24.3168]
+    },
+    "pricePerNight": 6000,
+    "images": [
+      "https://example.com/images/sreemangal-1.jpg",
+      "https://example.com/images/sreemangal-2.jpg"
+    ],
+    "amenities": ["Garden", "Wi-Fi", "Breakfast"],
+    "guestCapacity": 3
+  },
+  {
+    "name": "Lakefront Homestay in Rangamati",
+    "description": "A rustic homestay offering stunning views of the Kaptai Lake.",
+    "location": {
+      "name": "Chittagong",
+      "coordinates": [92.1931, 22.6588]
+    },
+    "pricePerNight": 5000,
+    "images": [
+      "https://example.com/images/rangamati-1.jpg",
+      "https://example.com/images/rangamati-2.jpg"
+    ],
+    "amenities": ["Lake View", "Free Parking", "Wi-Fi"],
+    "guestCapacity": 4
+  },
+  {
+    "name": "Student Housing near Chittagong University",
+    "description": "A comfortable flat with modern facilities, close to the university campus.",
+    "location": {
+      "name": "Chittagong",
+      "coordinates": [91.8021, 22.3569]
+    },
+    "pricePerNight": 4000,
+    "images": [
+      "https://example.com/images/ctg-uni-1.jpg",
+      "https://example.com/images/ctg-uni-2.jpg"
+    ],
+    "amenities": ["AC", "Wi-Fi", "Kitchen"],
+    "guestCapacity": 3
+  },
+  {
+    "name": "Private Beach Villa in Patenga",
+    "description": "A spacious villa with private beach access, perfect for a relaxing holiday.",
+    "location": {
+      "name": "Chittagong",
+      "coordinates": [91.8021, 22.2599]
+    },
+    "pricePerNight": 11000,
+    "images": [
+      "https://example.com/images/patenga-1.jpg",
+      "https://example.com/images/patenga-2.jpg"
+    ],
+    "amenities": ["Beach Access", "Swimming Pool", "AC"],
+    "guestCapacity": 6
+  },
+  {
+    "name": "Jungle View Resort in Bandarban",
+    "description": "A beautiful resort with panoramic views of the hills and forests.",
+    "location": {
+      "name": "Chittagong",
+      "coordinates": [92.2155, 22.2037]
+    },
+    "pricePerNight": 9500,
+    "images": [
+      "https://example.com/images/bandarban-1.jpg",
+      "https://example.com/images/bandarban-2.jpg"
+    ],
+    "amenities": ["Mountain View", "Restaurant", "Wi-Fi"],
+    "guestCapacity": 5
+  },
+  {
+    "name": "Affordable Flat in Mirpur",
+    "description": "A comfortable apartment with easy access to public transport and shopping centers.",
+    "location": {
+      "name": "Dhaka",
+      "coordinates": [90.3598, 23.8103]
+    },
+    "pricePerNight": 5000,
+    "images": [
+      "https://example.com/images/mirpur-1.jpg",
+      "https://example.com/images/mirpur-2.jpg"
+    ],
+    "amenities": ["Wi-Fi", "Balcony", "Parking"],
+    "guestCapacity": 4
+  },
+  {
+    "name": "Heritage Stay in Old Dhaka",
+    "description": "Experience the historic side of Dhaka in this traditional, yet modern, building.",
+    "location": {
+      "name": "Dhaka",
+      "coordinates": [90.4079, 23.7099]
+    },
+    "pricePerNight": 4000,
+    "images": [
+      "https://example.com/images/olddhaka-1.jpg",
+      "https://example.com/images/olddhaka-2.jpg"
+    ],
+    "amenities": ["Wi-Fi", "Historical Area"],
+    "guestCapacity": 3
+  },
+  {
+    "name": "Posh Apartment in Gulshan",
+    "description": "Wake up to a serene lake view in this cozy and well-decorated flat.",
+    "location": {
+      "name": "Dhaka",
+      "coordinates": [90.4137, 23.7949]
+    },
+    "pricePerNight": 9000,
+    "images": [
+      "https://example.com/images/gulshan-lake-1.jpg",
+      "https://example.com/images/gulshan-lake-2.jpg"
+    ],
+    "amenities": ["Lake View", "AC", "Gym"],
+    "guestCapacity": 2
+  },
+  {
+    "name": "Mountain Side Cottage in Sylhet",
+    "description": "A charming cottage offering peace and tranquility in the tea gardens of Sylhet.",
+    "location": {
+      "name": "Sylhet",
+      "coordinates": [91.8722, 24.8949]
+    },
+    "pricePerNight": 7000,
+    "images": [
+      "https://example.com/images/sylhet-cottage-1.jpg",
+      "https://example.com/images/sylhet-cottage-2.jpg"
+    ],
+    "amenities": ["Garden", "Wi-Fi"],
+    "guestCapacity": 4
+  },
+  {
+    "name": "Resort near Kolatoli",
+    "description": "A luxurious hotel with all modern amenities, close to the main beach.",
+    "location": {
+      "name": "Cox's Bazar",
+      "coordinates": [91.9796, 21.4239]
+    },
+    "pricePerNight": 18000,
+    "images": [
+      "https://example.com/images/kolatoli-hotel-1.jpg",
+      "https://example.com/images/kolatoli-hotel-2.jpg"
+    ],
+    "amenities": ["Swimming Pool", "Restaurant", "Spa", "Wi-Fi"],
+    "guestCapacity": 4
+  },
+  {
+    "name": "Dormitory in Cox's Bazar",
+    "description": "A clean and affordable guesthouse for travelers on a budget.",
+    "location": {
+      "name": "Cox's Bazar",
+      "coordinates": [91.9868, 21.4272]
+    },
+    "pricePerNight": 2500,
+    "images": [
+      "https://example.com/images/guesthouse-1.jpg",
+      "https://example.com/images/guesthouse-2.jpg"
+    ],
+    "amenities": ["Wi-Fi", "Basic Facilities"],
+    "guestCapacity": 2
+  },
+  {
+    "name": "Bungalow near Sreemangal",
+    "description": "A cozy home with a friendly host, perfect for a family trip.",
+    "location": {
+      "name": "Sylhet",
+      "coordinates": [91.7243, 24.3168]
+    },
+    "pricePerNight": 5000,
+    "images": [
+      "https://example.com/images/sreemangal-family-1.jpg",
+      "https://example.com/images/sreemangal-family-2.jpg"
+    ],
+    "amenities": ["Breakfast", "Garden", "Wi-Fi"],
+    "guestCapacity": 4
+  },
+  {
+    "name": "Centrally Located Flat in Chittagong",
+    "description": "A centrally located apartment with easy access to all major attractions.",
+    "location": {
+      "name": "Chittagong",
+      "coordinates": [91.8166, 22.3569]
+    },
+    "pricePerNight": 6500,
+    "images": [
+      "https://example.com/images/chittagong-city-1.jpg",
+      "https://example.com/images/chittagong-city-2.jpg"
+    ],
+    "amenities": ["AC", "Wi-Fi", "Kitchen"],
+    "guestCapacity": 5
+  },
+  {
+    "name": "Quiet Place in Uttara",
+    "description": "A serene flat located in the residential area of Uttara, Dhaka.",
+    "location": {
+      "name": "Dhaka",
+      "coordinates": [90.3955, 23.8697]
+    },
+    "pricePerNight": 6000,
+    "images": [
+      "https://example.com/images/uttara-1.jpg",
+      "https://example.com/images/uttara-2.jpg"
+    ],
+    "amenities": ["AC", "Balcony", "Free Parking"],
+    "guestCapacity": 3
+  },
+  {
+    "name": "Business Hotel in Banani",
+    "description": "A business-friendly hotel with conference rooms and a restaurant.",
+    "location": {
+      "name": "Dhaka",
+      "coordinates": [90.4079, 23.7916]
+    },
+    "pricePerNight": 10000,
+    "images": [
+      "https://example.com/images/banani-hotel-1.jpg",
+      "https://example.com/images/banani-hotel-2.jpg"
+    ],
+    "amenities": ["AC", "Restaurant", "Wi-Fi", "Conference Room"],
+    "guestCapacity": 2
+  },
+  {
+    "name": "Guest House near Chittagong Airport",
+    "description": "A convenient guesthouse for travelers, close to the airport and beach.",
+    "location": {
+      "name": "Chittagong",
+      "coordinates": [91.8176, 22.2599]
+    },
+    "pricePerNight": 3000,
+    "images": [
+      "https://example.com/images/airport-guesthouse-1.jpg",
+      "https://example.com/images/airport-guesthouse-2.jpg"
+    ],
+    "amenities": ["Airport Shuttle", "Wi-Fi", "Kitchen"],
+    "guestCapacity": 2
+  },
+  {
+    "name": "City View Apartment in Motijheel",
+    "description": "A simple flat located in the heart of Dhaka's financial district.",
+    "location": {
+      "name": "Dhaka",
+      "coordinates": [90.4137, 23.7299]
+    },
+    "pricePerNight": 4500,
+    "images": [
+      "https://example.com/images/motijheel-1.jpg",
+      "https://example.com/images/motijheel-2.jpg"
+    ],
+    "amenities": ["AC", "Wi-Fi"],
+    "guestCapacity": 3
+  },
+  {
+    "name": "Modern Flat in Mirpur 12",
+    "description": "A spacious apartment with modern amenities and a great view.",
+    "location": {
+      "name": "Dhaka",
+      "coordinates": [90.3683, 23.8291]
+    },
+    "pricePerNight": 5500,
+    "images": [
+      "https://example.com/images/mirpur12-1.jpg",
+      "https://example.com/images/mirpur12-2.jpg"
+    ],
+    "amenities": ["AC", "Wi-Fi", "Balcony"],
+    "guestCapacity": 4
+  },
+  {
+    "name": "Cozy Home in Mohammadpur",
+    "description": "A comfortable home with a relaxing vibe, situated in a quiet neighborhood.",
+    "location": {
+      "name": "Dhaka",
+      "coordinates": [90.3653, 23.7667]
+    },
+    "pricePerNight": 4000,
+    "images": [
+      "https://example.com/images/mohammadpur-1.jpg",
+      "https://example.com/images/mohammadpur-2.jpg"
+    ],
+    "amenities": ["AC", "Parking", "Kitchen"],
+    "guestCapacity": 3
+  },
+  {
+    "name": "Luxurious Hotel in Kolatoli",
+    "description": "A luxurious hotel with all modern amenities, close to the main beach.",
+    "location": {
+      "name": "Cox's Bazar",
+      "coordinates": [91.9796, 21.4239]
+    },
+    "pricePerNight": 18000,
+    "images": [
+      "https://example.com/images/kolatoli-hotel-1.jpg",
+      "https://example.com/images/kolatoli-hotel-2.jpg"
+    ],
+    "amenities": ["Swimming Pool", "Restaurant", "Spa", "Wi-Fi"],
+    "guestCapacity": 4
+  },
+  {
+    "name": "Budget-Friendly Guesthouse in Cox's Bazar",
+    "description": "A clean and affordable guesthouse for travelers on a budget.",
+    "location": {
+      "name": "Cox's Bazar",
+      "coordinates": [91.9868, 21.4272]
+    },
+    "pricePerNight": 2500,
+    "images": [
+      "https://example.com/images/guesthouse-1.jpg",
+      "https://example.com/images/guesthouse-2.jpg"
+    ],
+    "amenities": ["Wi-Fi", "Basic Facilities"],
+    "guestCapacity": 2
+  },
+  {
+    "name": "Family Stay in Sreemangal",
+    "description": "A cozy home with a friendly host, perfect for a family trip.",
+    "location": {
+      "name": "Sylhet",
+      "coordinates": [91.7243, 24.3168]
+    },
+    "pricePerNight": 5000,
+    "images": [
+      "https://example.com/images/sreemangal-family-1.jpg",
+      "https://example.com/images/sreemangal-family-2.jpg"
+    ],
+    "amenities": ["Breakfast", "Garden", "Wi-Fi"],
+    "guestCapacity": 4
+  },
+  {
+    "name": "City Centre Flat in Chittagong",
+    "description": "A centrally located apartment with easy access to all major attractions.",
+    "location": {
+      "name": "Chittagong",
+      "coordinates": [91.8166, 22.3569]
+    },
+    "pricePerNight": 6500,
+    "images": [
+      "https://example.com/images/chittagong-city-1.jpg",
+      "https://example.com/images/chittagong-city-2.jpg"
+    ],
+    "amenities": ["AC", "Wi-Fi", "Kitchen"],
+    "guestCapacity": 5
+  },
+  {
+    "name": "Peaceful Getaway in Uttara",
+    "description": "A serene flat located in the residential area of Uttara, Dhaka.",
+    "location": {
+      "name": "Dhaka",
+      "coordinates": [90.3955, 23.8697]
+    },
+    "pricePerNight": 6000,
+    "images": [
+      "https://example.com/images/uttara-1.jpg",
+      "https://example.com/images/uttara-2.jpg"
+    ],
+    "amenities": ["AC", "Balcony", "Free Parking"],
+    "guestCapacity": 3
+  },
+  {
+    "name": "Modern Hotel in Banani",
+    "description": "A business-friendly hotel with conference rooms and a restaurant.",
+    "location": {
+      "name": "Dhaka",
+      "coordinates": [90.4079, 23.7916]
+    },
+    "pricePerNight": 10000,
+    "images": [
+      "https://example.com/images/banani-hotel-1.jpg",
+      "https://example.com/images/banani-hotel-2.jpg"
+    ],
+    "amenities": ["AC", "Restaurant", "Wi-Fi", "Conference Room"],
+    "guestCapacity": 2
+  },
+  {
+    "name": "Guest House near Chittagong Airport",
+    "description": "A convenient guesthouse for travelers, close to the airport and beach.",
+    "location": {
+      "name": "Chittagong",
+      "coordinates": [91.8176, 22.2599]
+    },
+    "pricePerNight": 3000,
+    "images": [
+      "https://example.com/images/airport-guesthouse-1.jpg",
+      "https://example.com/images/airport-guesthouse-2.jpg"
+    ],
+    "amenities": ["Airport Shuttle", "Wi-Fi", "Kitchen"],
+    "guestCapacity": 2
+  },
+  {
+    "name": "Urban Flat near Motijheel",
+    "description": "A simple flat located in the heart of Dhaka's financial district.",
+    "location": {
+      "name": "Dhaka",
+      "coordinates": [90.4137, 23.7299]
+    },
+    "pricePerNight": 4500,
+    "images": [
+      "https://example.com/images/motijheel-1.jpg",
+      "https://example.com/images/motijheel-2.jpg"
+    ],
+    "amenities": ["AC", "Wi-Fi"],
+    "guestCapacity": 3
+  },
+  {
+    "name": "Modern Flat in Mirpur 12",
+    "description": "A spacious apartment with modern amenities and a great view.",
+    "location": {
+      "name": "Dhaka",
+      "coordinates": [90.3683, 23.8291]
+    },
+    "pricePerNight": 5500,
+    "images": [
+      "https://example.com/images/mirpur12-1.jpg",
+      "https://example.com/images/mirpur12-2.jpg"
+    ],
+    "amenities": ["AC", "Wi-Fi", "Balcony"],
+    "guestCapacity": 4
+  },
+  {
+    "name": "Cozy Home in Mohammadpur",
+    "description": "A comfortable home with a relaxing vibe, situated in a quiet neighborhood.",
+    "location": {
+      "name": "Dhaka",
+      "coordinates": [90.3653, 23.7667]
+    },
+    "pricePerNight": 4000,
+    "images": [
+      "https://example.com/images/mohammadpur-1.jpg",
+      "https://example.com/images/mohammadpur-2.jpg"
+    ],
+    "amenities": ["AC", "Parking", "Kitchen"],
+    "guestCapacity": 3
+  },
+  {
+    "name": "Riverside Villa in Cox's Bazar",
+    "description": "A luxurious villa with a beautiful riverside view.",
+    "location": {
+      "name": "Cox's Bazar",
+      "coordinates": [91.9868, 21.4272]
+    },
+    "pricePerNight": 15000,
+    "images": [
+      "https://example.com/images/coxsbazar-riverside-1.jpg",
+      "https://example.com/images/coxsbazar-riverside-2.jpg"
+    ],
+    "amenities": ["River View", "Swimming Pool", "Wi-Fi", "AC"],
+    "guestCapacity": 6
+  },
+  {
+    "name": "Eco-Tourism Resort in Sylhet",
+    "description": "An eco-friendly resort in the heart of Sylhet's forests.",
+    "location": {
+      "name": "Sylhet",
+      "coordinates": [91.8722, 24.8949]
+    },
+    "pricePerNight": 9500,
+    "images": [
+      "https://example.com/images/sylhet-eco-1.jpg",
+      "https://example.com/images/sylhet-eco-2.jpg"
+    ],
+    "amenities": ["Forest View", "Wi-Fi", "Restaurant"],
+    "guestCapacity": 4
+  },
+  {
+    "name": "Beach Villa near Inani Beach",
+    "description": "A secluded villa with direct beach access to the pristine Inani Beach.",
+    "location": {
+      "name": "Cox's Bazar",
+      "coordinates": [92.0531, 21.3194]
+    },
+    "pricePerNight": 20000,
+    "images": [
+      "https://example.com/images/inani-beach-1.jpg",
+      "https://example.com/images/inani-beach-2.jpg"
+    ],
+    "amenities": ["Private Beach", "Swimming Pool", "AC"],
+    "guestCapacity": 8
+  },
+  {
+    "name": "Charming Guesthouse in Sylhet City",
+    "description": "A cozy guesthouse in the city center, close to all major attractions.",
+    "location": {
+      "name": "Sylhet",
+      "coordinates": [91.8722, 24.8949]
+    },
+    "pricePerNight": 4500,
+    "images": [
+      "https://example.com/images/sylhet-city-1.jpg",
+      "https://example.com/images/sylhet-city-2.jpg"
+    ],
+    "amenities": ["Wi-Fi", "Kitchen", "Parking"],
+    "guestCapacity": 3
+  },
+  {
+    "name": "Modern Apartment in Chittagong Port Area",
+    "description": "An urban apartment with a view of the port.",
+    "location": {
+      "name": "Chittagong",
+      "coordinates": [91.8021, 22.3569]
+    },
+    "pricePerNight": 7000,
+    "images": [
+      "https://example.com/images/chittagong-port-1.jpg",
+      "https://example.com/images/chittagong-port-2.jpg"
+    ],
+    "amenities": ["AC", "Wi-Fi", "City View"],
+    "guestCapacity": 4
+  },
+  {
+    "name": "Hillside Resort in Khagrachari",
+    "description": "A resort nestled in the scenic hills of Khagrachari, part of Chittagong division.",
+    "location": {
+      "name": "Chittagong",
+      "coordinates": [91.9796, 22.9774]
+    },
+    "pricePerNight": 8500,
+    "images": [
+      "https://example.com/images/khagrachari-1.jpg",
+      "https://example.com/images/khagrachari-2.jpg"
+    ],
+    "amenities": ["Mountain View", "Restaurant", "Wi-Fi"],
+    "guestCapacity": 5
+  },
+  {
+    "name": "Holiday Home in Sajek",
+    "description": "A home away from home with breathtaking cloud views in the Sajek Valley.",
+    "location": {
+      "name": "Chittagong",
+      "coordinates": [92.3789, 23.3644]
+    },
+    "pricePerNight": 10000,
+    "images": [
+      "https://example.com/images/sajek-1.jpg",
+      "https://example.com/images/sajek-2.jpg"
+    ],
+    "amenities": ["Cloud View", "Heater", "Balcony"],
+    "guestCapacity": 4
+  },
+  {
+    "name": "Peaceful Flat in Uttara Sector 13",
+    "description": "A quiet and comfortable flat in a secure residential area.",
+    "location": {
+      "name": "Dhaka",
+      "coordinates": [90.3955, 23.8697]
+    },
+    "pricePerNight": 6000,
+    "images": [
+      "https://example.com/images/uttara13-1.jpg",
+      "https://example.com/images/uttara13-2.jpg"
+    ],
+    "amenities": ["AC", "Balcony", "Free Parking"],
+    "guestCapacity": 3
+  },
+  {
+    "name": "Hotel near Banani DOHS",
+    "description": "A business-friendly hotel with conference rooms and a restaurant.",
+    "location": {
+      "name": "Dhaka",
+      "coordinates": [90.4079, 23.7916]
+    },
+    "pricePerNight": 10000,
+    "images": [
+      "https://example.com/images/banani-dohs-1.jpg",
+      "https://example.com/images/banani-dohs-2.jpg"
+    ],
+    "amenities": ["AC", "Restaurant", "Wi-Fi", "Conference Room"],
+    "guestCapacity": 2
+  }
+]
